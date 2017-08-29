@@ -1,0 +1,14 @@
+{
+  "production": {
+    "database": "/tmp/db",
+    "dialect": "sqlite"
+  },
+  "development": {
+    "database": "/tmp/db",
+    "dialect": "sqlite"
+  },
+  "test": {
+    "database": "/tmp/db",
+    "dialect": "sqlite"
+  }
+}
